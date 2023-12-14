@@ -1,0 +1,211 @@
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url(netflix\ img1.jpg);
+    padding-bottom: 180px;
+}
+
+img{
+    height: 100px;
+    width: 170px;
+    padding-left: 150px;
+}
+
+.header1{
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+    height: 32px;
+    width: 75px;
+    background: red;
+    border-radius: 8%;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+.dropdown{
+    background: none;
+    height: 32px;
+    width: 120px;
+    color: white;
+    font-size: 15px;
+    border-color: rgb(163, 163, 163);
+    border-radius: 6%;
+    margin-right: 25px;
+}
+
+.button1{
+    display: flex;
+    width: 30%;
+    justify-content: flex-end;
+}
+
+.bigh1{
+    height: 150px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 130px;
+    margin-left: 130px;
+    margin-top: 130px;
+    text-align: center;
+}
+
+.bigh1 h1{
+    font-size: 3em;
+    color: white;
+    font-weight: bolder;
+}
+
+.container p{
+    color: rgb(215, 215, 215);
+    text-align: center;
+    font-size: 23px;
+}
+
+.input-btn input{
+    background: rgba(82, 81, 81, 0.107);
+    width: 380px;
+    padding: 15px;
+    color: white;
+    font-size: 19px;
+    border-color: rgb(163, 163, 163);
+    border-radius: 10px;
+}
+
+.input-btn button{
+    background-color: red;
+    padding: 13px;
+    border: none;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+.input-btn{
+    text-align: center;
+}
+
+.container2, .container3, .container4, .container5{
+    width: auto;
+    height: 90%;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content2{
+    padding-left: 80px;
+    margin: 100px;
+}
+
+.content2 h1{
+    font-size: 40px;
+}
+
+.content2 p{
+    font-size: 25px;
+}
+.container2 img{
+    height: 60%;
+    width: 40%;
+    margin-right: 170px;
+    margin-left: -20px;
+}
+
+
+.container3 img{
+    height: 65%;
+    width: 35%;
+    margin-left: 40px;
+}
+
+.content3{
+    margin: 100px;
+    padding-left: 30px;
+    padding-right: -60px;
+    margin-left: -10px; 
+}
+
+.content3 h1{
+    font-size: 40px;
+}
+
+.content3 p{
+    font-size: 25px;
+}
+
+.container4 img{
+    height: 70%;
+    width: 40%;
+    margin-right: 10%;
+}
+
+.content4{
+    margin-left: 10%;
+}
+
+.content4 h1{
+    font-size: 50px;
+}
+
+.content4 p{
+    font-size: 25px;
+}
+
+.container5 img{
+    height: 70%;
+    width: 40%;
+}
+
+.content5{
+    margin-right: 10%;
+}
+
+.content5 h1{
+    font-size: 50px;
+}
+
+.content5 p{
+    font-size: 25px;
+}
+
+.footer1{
+    width: auto;
+    height: 60%;
+    background: black;
+    padding: 30px;
+}
+
+.footer1 p{
+    padding-top: 30px;
+    padding-left: 40px;
+    color: rgb(168, 168, 168);
+}
+
+.links a{
+    color: rgb(168, 168, 168);
+}
+.links{
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer1 button{
+    margin-left: 40px;
+}
+
